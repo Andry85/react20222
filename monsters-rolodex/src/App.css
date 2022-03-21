@@ -1,3 +1,11 @@
 .App {
  
 }
+
+.search-box {
+    width: 400px;
+    margin: 25px auto;
+    display: block;
+    padding: 15px;
+    font-size: 2rem;
+}
